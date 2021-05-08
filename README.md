@@ -22,7 +22,7 @@ When starting a venture it is important to squeeze every dollar of profit you ca
 ## Conclusions
 Based on the results the following three conclusions where made. <br />
           •	The movie length should be 102 minutes.  Movies both above and below that threshold saw low ROI.  Having a move with length 102 removes run time of being a cause of low ROI. <br />
-          •	The budget for the first movie should be $126,910,716.  Since it is expected that Microsoft is aiming to be a market leader, they should expect to budget similar to the current market leaders. <br />
+          •	The budget for the first movie should be $120,283,930.  Since it is expected that Microsoft is aiming to be a market leader, they should expect to budget similar to the current market leaders. <br />
           •	Making a worldwide movie is a must.  Once a movie is made is simple to make copies and pass them along, especially to other English-speaking countries. 
 ## Next Steps 
 Given more time and resources the following would be useful in drilling further down on profitable recommendation for this new venture: <br />
